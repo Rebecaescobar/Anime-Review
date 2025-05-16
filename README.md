@@ -1,1 +1,4 @@
-"# Anime Reviews \n\Um site para avaliaá∆o e recomendaá∆o de animes" 
+# Anime Reviews Um site para avaliao e recomendao de animes 
+
+## Descri√ß√£o
+Cria√ß√£o de um site de animes com passo a passo de Git e Github 
